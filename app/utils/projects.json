@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Lalasia",
+    "image": "./Projects/project1.jpg",
+    "description": "Furniture E-commerce website built using ReactJS and Firebase",
+    "link": "http://project-lalasia.vercel.app/",
+    "techStack": ["React.js", "CSS", "Firebase"]
+  },
+  {
+    "id": 2,
+    "name": "My Book Shelf",
+    "image": "./Projects/project2.jpg",
+    "description": "Website to enter the title of the book that has been read or not read",
+    "link": "https://dandy-cp.github.io/My-Bookshelf-App/",
+    "techStack": ["HTML", "CSS", "Javascript", "Local Storage"]
+  },
+  {
+    "id": 3,
+    "name": "Advice Generator",
+    "image": "./Projects/project3.jpg",
+    "description": "Advice Generator is a website that will generate a word of wisdom",
+    "link": "https://dandy-cp.github.io/advice-generator-app/",
+    "techStack": ["HTML", "CSS", "Javascript", "Axios"]
+  },
+  {
+    "id": 4,
+    "name": "Loopstudios Landing Page",
+    "image": "./Projects/project4.jpg",
+    "description": "A Slice design from Frontend mentor",
+    "link": "https://dandy-cp.github.io/loopstudios-landing-page/",
+    "techStack": ["HTML", "CSS", "ReactJS"]
+  },
+  {
+    "id": 5,
+    "name": "Shortly",
+    "image": "./Projects/project9.jpg",
+    "description": "A project integrate with the shrtcode API to create shortened URLs.",
+    "link": "https://url-shortening-one.vercel.app/",
+    "techStack": ["ReactJS", "Tailwind CSS", "Axios"]
+  }
+]

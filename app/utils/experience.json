@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "company": "PT. Kreatif Anak Bangsa (Everywhere.id)",
+    "position": "Junior Frontend Engineer",
+    "startDate": "Sep 2024",
+    "endDate": "Present",
+    "description": "Website Development and Maintenance using Tech Stack Typescript, Next.JS, Material UI. Development collaboration with Backend and UI Designers to produce efficient and easy to develop product functionality. Active in developing Project Web Dashboard for internal and improving operational efficiency in ease of Product and Revenue management. Deploying from Staging to Production stage according to Procedures and Commands.",
+    "link": "https://play.everywhere.id/",
+    "techStack": [
+      "TypeScript",
+      "React.js",
+      "Next.js",
+      "Tailwind CSS",
+      "Material UI"
+    ]
+  },
+  {
+    "id": 2,
+    "company": "PT. Kalpika Loka Persada",
+    "position": "Junior Frontend Developer",
+    "startDate": "Jan 2024",
+    "endDate": "Sep 2024",
+    "description": "Website Development using Tech Stack Typescript, Next.JS and Tailwind CSS. Actively enhance, maintenance and add new feature in existing projects. Active in task management, code plan discussions and code review with team mates. Implement best practice and clean code frontend with react atomic design.",
+    "link": "https://www.kalpika.id/",
+    "techStack": ["TypeScript", "React.js", "Next.js", "Tailwind CSS"]
+  },
+  {
+    "id": 3,
+    "company": "PT. Sinergi Rajawali Mataran (Platon)",
+    "position": "Frontend Developer",
+    "startDate": "Feb 2023",
+    "endDate": "Jan 2024",
+    "description": "Website Development using Tech Stack Typescript, Next.JS, Mantine UI and Mobile using React Native Expo. Active in communicating with clients regarding feedback and input during development and fulfilling client needs. Conducting Evaluation, Bug Fixing and Refactoring of Code on existing and new client projects",
+    "link": "https://www.platon.co.id",
+    "techStack": [
+      "TypeScript",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Tailwind CSS",
+      "Mantine UI"
+    ]
+  }
+]
