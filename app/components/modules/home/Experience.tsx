@@ -17,7 +17,7 @@ const Experience = () => {
       </div>
 
       <a
-        href='/resume.pdf'
+        href='./resume.pdf'
         target='_blank'
         className='group/link mt-10 inline-flex items-baseline text-base font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300'
       >
