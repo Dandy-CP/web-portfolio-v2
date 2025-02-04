@@ -32,10 +32,11 @@ const SideContent = () => {
         </nav>
       </div>
 
-      <div className='flex flex-row gap-5 phone:mt-10 tablet:mt-10'>
+      <div className='flex flex-row items-center gap-5 phone:mt-10 tablet:mt-10'>
         <a href='https://github.com/Dandy-CP' target='_blank' rel='noreferrer'>
           <Github />
         </a>
+
         <a
           href='https://www.linkedin.com/in/dandycandra/'
           target='_blank'
@@ -43,6 +44,7 @@ const SideContent = () => {
         >
           <Linkedin />
         </a>
+
         <a href='mailto:dandycandrapratama@gmail.com'>
           <Mail />
         </a>
