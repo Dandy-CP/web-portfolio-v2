@@ -2,27 +2,33 @@ import { Sribu, Fastwork } from '~/components/partials/SVG';
 
 const Footer = () => {
   return (
-    <div className='mt-40 w-[400px] phone:mb-10 phone:w-full tablet:mb-10'>
-      <div className='mb-3 flex flex-row items-center gap-5'>
-        <a
-          href='https://www.sribu.com/id/users/dandycandra'
-          target='_blank'
-          rel='noreferrer'
-        >
-          <Sribu />
-        </a>
+    <div className='mt-40 flex w-[400px] flex-col phone:mb-10 phone:w-full tablet:mb-10 tablet:w-full tablet:items-center'>
+      <div>
+        <p className='text-sm font-semibold text-customWhite phone:text-center phone:text-xs tablet:text-center'>
+          Interested in building a web or mobile app? Find me on:
+        </p>
 
-        <a
-          href='https://fastwork.id/user/dandycp'
-          target='_blank'
-          rel='noreferrer'
-        >
-          <Fastwork />
-        </a>
+        <div className='mb-5 flex flex-row items-center gap-5 phone:justify-center tablet:justify-center'>
+          <a
+            href='https://www.sribu.com/id/users/dandycandra'
+            target='_blank'
+            rel='noreferrer'
+          >
+            <Sribu />
+          </a>
+
+          <a
+            href='https://fastwork.id/user/dandycp'
+            target='_blank'
+            rel='noreferrer'
+          >
+            <Fastwork />
+          </a>
+        </div>
       </div>
 
       <div className='w-full'>
-        <p className='text-sm font-light text-customSlate'>
+        <p className='text-sm font-light text-customSlate phone:text-center tablet:text-center'>
           Built and coded with{' '}
           <a
             href='https://remix.run/'
