@@ -2,28 +2,52 @@
   {
     "id": 1,
     "company": "PT. Kreatif Anak Bangsa (Everywhere.id)",
-    "position": "Junior Frontend Engineer",
+    "position": "Frontend Engineer",
     "startDate": "Sep 2024",
-    "endDate": "Present",
+    "endDate": "PRESENT",
     "description": "Website Development and Maintenance using Tech Stack Typescript, Next.JS, Material UI. Development collaboration with Backend and UI Designers to produce efficient and easy to develop product functionality. Active in developing Project Web Dashboard for internal and improving operational efficiency in ease of Product and Revenue management. Deploying from Staging to Production stage according to Procedures and Commands.",
     "link": "https://play.everywhere.id/",
     "techStack": [
       "TypeScript",
-      "React.js",
-      "Next.js",
+      "React.JS",
+      "Next.JS",
       "Tailwind CSS",
       "Material UI"
+    ],
+    "projects": [
+      {
+        "projectName": "Play everywhere",
+        "link": "https://play.everywhere.id/"
+      },
+      {
+        "projectName": "Everywhere Venue Dashboard",
+        "link": "https://venue.everywhere.id/"
+      },
+      {
+        "projectName": "Play everywhere CMS",
+        "link": "#"
+      },
+      {
+        "projectName": "Play everywhere Business",
+        "link": "#"
+      }
     ]
   },
   {
     "id": 2,
     "company": "PT. Kalpika Loka Persada",
-    "position": "Junior Frontend Developer",
+    "position": "Frontend Developer",
     "startDate": "Jan 2024",
     "endDate": "Sep 2024",
     "description": "Website Development using Tech Stack Typescript, Next.JS and Tailwind CSS. Actively enhance, maintenance and add new feature in existing projects. Active in task management, code plan discussions and code review with team mates. Implement best practice and clean code frontend with react atomic design.",
     "link": "https://www.kalpika.id/",
-    "techStack": ["TypeScript", "React.js", "Next.js", "Tailwind CSS"]
+    "techStack": ["TypeScript", "React.JS", "Next.JS", "Tailwind CSS"],
+    "projects": [
+      {
+        "projectName": "Bankamda Kalpika Bali",
+        "link": "https://dashboard.kalpika.id"
+      }
+    ]
   },
   {
     "id": 3,
@@ -35,11 +59,41 @@
     "link": "https://www.platon.co.id",
     "techStack": [
       "TypeScript",
-      "React.js",
-      "Next.js",
+      "React.JS",
+      "Next.JS",
       "React Native",
       "Tailwind CSS",
       "Mantine UI"
+    ],
+    "projects": [
+      {
+        "projectName": "Platon Talent",
+        "link": "https://platon.co.id/talent"
+      },
+      {
+        "projectName": "Cititrans Driver",
+        "link": "#"
+      },
+      {
+        "projectName": "SiHalal",
+        "link": "https://play.google.com/store/apps/details?id=com.nugrohomagfi.halalapp&hl=id"
+      },
+      {
+        "projectName": "Kilapin",
+        "link": "https://play.google.com/store/apps/details?id=com.ptsinergirajawalimataram.kilapin&hl=id"
+      },
+      {
+        "projectName": "IDE Space",
+        "link": "https://space.music.id"
+      },
+      {
+        "projectName": "HNT Indonesia",
+        "link": "https://www.hntindonesia.co.id/id"
+      },
+      {
+        "projectName": "Berkat Karimar Mandiri",
+        "link": "https://www.bkmtranslog.co.id/"
+      }
     ]
   }
 ]

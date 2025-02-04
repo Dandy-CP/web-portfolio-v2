@@ -5,7 +5,7 @@
     "image": "./Projects/project1.jpg",
     "description": "Furniture E-commerce website built using ReactJS and Firebase",
     "link": "http://project-lalasia.vercel.app/",
-    "techStack": ["React.js", "CSS", "Firebase"]
+    "techStack": ["React.JS", "CSS", "Firebase"]
   },
   {
     "id": 2,
