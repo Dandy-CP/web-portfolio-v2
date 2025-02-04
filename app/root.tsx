@@ -31,11 +31,15 @@ export function Layout({ children }: LayoutProps) {
       <head>
         <meta charSet='utf-8' />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
+        <meta
+          name='google-site-verification'
+          content='_EkrtT_5ztdXvdQjG16beqxpxC60lTvtzHdBqjDDnyw'
+        />
         <Meta />
         <Links />
       </head>
 
-      <body>
+      <body className='antialiased'>
         {children}
         <ScrollRestoration />
         <Scripts />
