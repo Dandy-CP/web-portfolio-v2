@@ -27,7 +27,7 @@ export default function Index() {
         mousePositionY={mousePosition.y}
       />
 
-      <div className='flex min-h-screen w-full px-40 phone:flex-col phone:px-3 tablet:flex-col tablet:px-10 desktop:px-10'>
+      <div className='flex min-h-screen w-full gap-14 px-40 phone:flex-col phone:gap-0 phone:px-3 tablet:flex-col tablet:gap-0 tablet:px-10 desktop:px-10'>
         <div className='sticky top-0 max-h-screen w-2/5 py-24 phone:relative phone:w-full phone:py-10 tablet:relative tablet:w-full tablet:py-10'>
           <SideContent />
         </div>
