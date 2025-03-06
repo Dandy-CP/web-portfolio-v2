@@ -17,11 +17,11 @@ const ProjectCard = ({
 }: ProjectCardProps) => {
   return (
     <div className='cursor-pointer transition-all duration-500 hover:scale-105'>
-      <div className='flex flex-row gap-3 phone:flex-col tablet:flex-col'>
+      <div className='flex flex-row gap-3 phone:flex-col tablet:items-center tablet:gap-5'>
         <img
           src={image}
-          alt=''
-          className='w-1/4 rounded-md border border-customGreen p-1 phone:w-full tablet:w-full desktop:w-1/3'
+          alt={name}
+          className='w-1/4 rounded-md border border-customGreen p-1 phone:w-full tablet:w-2/4 desktop:w-1/3'
         />
 
         <div>
