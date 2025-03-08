@@ -2,8 +2,8 @@ const Fastwork = () => {
   return (
     <svg
       width='181px'
-      height='46px'
-      viewBox='0 0 181 46'
+      height='43px'
+      viewBox='0 0 181 43'
       version='1.1'
       xmlns='http://www.w3.org/2000/svg'
       className='translate-y-px transform transition-transform duration-200 ease-in-out hover:-translate-y-1'
