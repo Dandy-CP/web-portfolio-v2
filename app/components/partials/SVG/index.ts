@@ -6,3 +6,4 @@ export { default as Fastwork } from './Fastwork';
 export { default as Chain } from './Chain';
 export { default as ArrowLink } from './ArrowLink';
 export { default as Fiverr } from './Fiverr';
+export { default as Upwork } from './Upwork';

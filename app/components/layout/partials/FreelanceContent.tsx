@@ -1,4 +1,4 @@
-import { Sribu, Fastwork, Fiverr } from '~/components/partials/SVG';
+import { Sribu, Fastwork, Fiverr, Upwork } from '~/components/partials/SVG';
 
 const FreelanceContent = () => {
   const freelanceData = [
@@ -17,6 +17,11 @@ const FreelanceContent = () => {
       logo: Fiverr,
       profileLink: 'https://www.fiverr.com/dandycp',
     },
+    {
+      platformFreelance: 'Upwork',
+      logo: Upwork,
+      profileLink: 'https://www.upwork.com/freelancers/~0106c13ddcd1e33d12',
+    },
   ];
 
   return (
@@ -25,7 +30,7 @@ const FreelanceContent = () => {
         Interested in building a web or mobile app? Find me on:
       </p>
 
-      <div className='mb-5 flex flex-row items-center gap-4 phone:flex-wrap phone:justify-center tablet:justify-center'>
+      <div className='mb-5 flex w-full flex-row items-center gap-5 phone:flex-wrap phone:justify-center tablet:justify-center'>
         {freelanceData.map((value) => (
           <a
             key={value.platformFreelance}
