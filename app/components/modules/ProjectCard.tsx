@@ -16,7 +16,7 @@ const ProjectCard = ({
   link,
 }: ProjectCardProps) => {
   return (
-    <div className='cursor-pointer transition-all duration-500 hover:scale-105'>
+    <div className='cursor-pointer transition-all duration-500 hover:scale-105 phone:hover:scale-100'>
       <div className='flex flex-row gap-3 phone:flex-col tablet:items-center tablet:gap-5'>
         <img
           src={image}

@@ -25,7 +25,7 @@ const ExperienceCard = ({
   projects,
 }: ExperienceCardProps) => {
   return (
-    <div className='cursor-pointer transition-all duration-500 hover:scale-105'>
+    <div className='cursor-pointer transition-all duration-500 hover:scale-105 phone:hover:scale-100'>
       <p className='mb-1 text-sm font-semibold text-customSlate'>
         {startDate} - {endDate}
       </p>
