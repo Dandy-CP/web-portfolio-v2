@@ -11,7 +11,7 @@ export const meta: MetaFunction = () => {
     {
       name: 'Dandy Candra Personal Website',
       content:
-        'Dandy Candra Frontend Engineer - I build things for the web and mobile, producing scalable, modular and easy to manage applications',
+        'Dandy Candra Software Engineer - I build things for the web and mobile, producing scalable, modular and easy to manage applications',
     },
   ];
 };
