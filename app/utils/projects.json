@@ -17,11 +17,11 @@
   },
   {
     "id": 3,
-    "name": "Advice Generator",
-    "image": "./Projects/project3.jpg",
-    "description": "Advice Generator is a website that will generate a word of wisdom",
-    "link": "https://dandy-cp.github.io/advice-generator-app/",
-    "techStack": ["HTML", "CSS", "Javascript", "Axios"]
+    "name": "Giffygram",
+    "image": "./Projects/project3.png",
+    "description": "Explore and Scrolling GIF like Instagram Style",
+    "link": "https://giffygram.vercel.app/",
+    "techStack": ["TypeScript", "Next.JS", "Tailwind CSS"]
   },
   {
     "id": 4,
