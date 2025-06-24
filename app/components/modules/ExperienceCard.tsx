@@ -46,7 +46,11 @@ const ExperienceCard = ({
 
       <p className='text-sm text-customSlate'>{description}</p>
 
-      <div className='mt-5 flex flex-wrap gap-3'>
+      <p className='mb-2 mt-5 text-sm text-customSlate'>
+        Some projects worked on:
+      </p>
+
+      <div className='flex flex-wrap gap-3'>
         {projects.map((value) => (
           <a
             key={value.projectName}

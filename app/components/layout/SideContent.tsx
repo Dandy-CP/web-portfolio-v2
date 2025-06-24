@@ -11,7 +11,7 @@ const SideContent = () => {
       <div className='flex flex-col gap-10'>
         <div>
           <h1 className='text-5xl font-bold'>Dandy Candra</h1>
-          <p className='my-3 text-xl'>Software Engineer</p>
+          <p className='my-3 text-xl'>Software Developer</p>
           <p className='w-[400px] text-base text-customSlate phone:w-full desktop:w-full'>
             I build things for the web and mobile, producing scalable, modular
             and easy to manage applications

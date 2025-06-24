@@ -9,7 +9,7 @@ const About = () => {
 
       <div className='mb-14 phone:mb-0 tablet:mb-0'>
         <p className='text-customSlate'>
-          I’m a Software Engineer passionate about crafting accessible,
+          I’m a Software Developer passionate about crafting accessible,
           pixel-perfect user interfaces that blend thoughtful design with robust
           engineering. My favorite work lies at the intersection of design and
           development, creating experiences that not only look great but are
