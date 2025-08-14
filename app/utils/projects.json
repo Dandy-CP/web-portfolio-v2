@@ -62,5 +62,13 @@
     "description": "A Client Mobile App Project by Kementerian Agama RI",
     "link": "https://play.google.com/store/apps/details?id=com.nugrohomagfi.halalapp&hl=id",
     "techStack": ["TypeScript", "React Native"]
+  },
+  {
+    "id": 9,
+    "name": "Montrack App",
+    "image": "./Projects/project13.png",
+    "description": "Money app management",
+    "link": "https://github.com/Dandy-CP/montrack",
+    "techStack": ["Dart", "Flutter", "Riverpod", "Dio", "Freezed", "Go Router"]
   }
 ]
