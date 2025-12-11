@@ -1,11 +1,17 @@
 [
   {
     "id": 1,
-    "name": "Lalasia",
-    "image": "./Projects/project1.jpg",
-    "description": "Furniture E-commerce website built using ReactJS and Firebase",
-    "link": "http://project-lalasia.vercel.app/",
-    "techStack": ["React.JS", "CSS", "Firebase"]
+    "name": "Nuegas",
+    "image": "./Projects/project14.png",
+    "description": "Google Classroom Alternative",
+    "link": "https://nuegas-beta.vercel.app",
+    "techStack": [
+      "Next.JS",
+      "TypeScript",
+      "Tailwind CSS",
+      "MaterialUI",
+      "Socket.io"
+    ]
   },
   {
     "id": 2,
